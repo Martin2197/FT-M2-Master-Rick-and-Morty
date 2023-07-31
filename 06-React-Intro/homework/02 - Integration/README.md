@@ -97,7 +97,7 @@ Recibe por props una función **`onSearch`**. La función **`onSearch`** se debe
 
 ¿Ya completaste los puntos anteriores y todo funciona? ¡Perfecto! Ya podemos comenzar a crear nuestra propia app:
 
-1. Dirígete a un nuevo directorio desde tu terminal (por ejemplo, tu escritorio). Allí es dónde crearás tu aplicación.
+1. Dirígete a un nuevo directorio desde tu terminal (por ejemplo, tu escritorio). Allí nes dónde crearás tu aplicació.
 
 2. Ahora utiliza **_`CRA`_** (create-react-app) mediante **npx** para crear una nueva app de React:
 
@@ -131,4 +131,4 @@ Ahora simplemente debes seguir estos pasos:
 
 1. Reemplaza la carpeta **`src`** de tu nuevo proyecto por la que tienes en esta carpeta ([**src**](./src/)).
 
-2. Comprueba que en el navegador deberías ver los cambios.
+2. Comprueba qu e en el navegador deberías ver los cambios.
