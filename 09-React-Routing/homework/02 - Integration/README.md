@@ -60,7 +60,7 @@ Luego, dirígete al archivo **`App.js`**. Ahora crearemos las rutas de los compo
 -  **Nav** debe que aparecer en todas las rutas.
 -  **Cards** debe aparecer solo en la ruta **`/home`**.
 -  **About** debe aparecer solo en la ruta **`/about`**.
--  **Detail** debe aparecer solo en la ruta **`/detail/:id`**.
+-  **Detail** debe aparecer solo en la ruta **`/detail/:id`**. 
 
 > [**NOTA**]: ten en cuenta que la ruta del componente **Detail** recibe un parámetro **`id`**.
 

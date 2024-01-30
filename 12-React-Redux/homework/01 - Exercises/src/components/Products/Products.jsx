@@ -1,7 +1,7 @@
 import { connect } from 'react-redux';
 import React from 'react';
 import './products.css';
-// import Card from '../Card/Card'
+import Card from '../Card/Card'
 
 export function Products() {
    return (
