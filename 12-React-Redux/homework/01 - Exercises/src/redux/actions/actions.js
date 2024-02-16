@@ -22,7 +22,7 @@ export function getStoreName () {
             const response = await axios.get('http://localhost:3001/store');
             dispatch({
               type: GET_STORE_NAME,
-              payload: response.data.data,
+              payload: response.data,
             });
     return dispatch();
     }
